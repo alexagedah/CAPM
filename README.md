@@ -1,4 +1,4 @@
-# CAPM
+# Captial Asset Pricing Model
 Cryptocurrencies are all correlated and members of "crypto twitter" often tweet about why their altcoin is the best and why everyone should buy it. As an introduction to how optimal portfolios acan be constructed from a basket of instruments, the Capital Asset Pricing Model is applied to the top cryptoassets.
 
 # Results
